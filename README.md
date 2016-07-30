@@ -1,5 +1,5 @@
 # Max-Gnoise
-A Gaussian noise generator for MaxMSP
+A signal rate Gaussian noise generator for MaxMSP
 <h2>Use: </h2>
 
 To use the object you need to do the following.
