@@ -24,7 +24,9 @@ If you're curious about the code you can send a viewsource message to <i><b>mxj~
 
 <h2>Troubleshooting: </h2>
 
-randomRange has been tested with Max5 and Max6 on OS X Yosemite with no issues.  If you test on a different system or come across a bug please let me know so I can update the docs. 
+Gnoise has been tested with Max5, Max6.1.10, and Max 7.2.4 on OS X Yosemite with no issues and Windows 10.  If you test on a different system or come across a bug please let me know so I can update the docs. 
+
+<i>Note: Max 6.0.8 will crash if you try and use Gnoise.  I'm not sure why, but I plan on making this a C external which should fix the problem. </i>
 
 If you have any issues the mxj~ reference is a good place to look: https://docs.cycling74.com/max5/refpages/max-ref/mxj~.html or you can drop me a line ed.mc.farr@gmail.com
 
