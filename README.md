@@ -18,7 +18,7 @@ Then just create a new <i><b>mxj~ Gnoise</b></i> object.
 
 You can change the initial the values with @mean, @stddev, and @seed
 
-<i>The defalut values are: mean 0.0f, stddev 1.0f, seed Long.MAX_VALUE or 9,223,372,036,854,755,807</i>
+<i>The defalut values are: mean 0.0f, stddev 1.0f, seed 0.0</i>
 
 If you're curious about the code you can send a viewsource message to <i><b>mxj~ Gnoise</b></i>.
 
