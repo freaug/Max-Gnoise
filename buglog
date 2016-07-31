@@ -1,2 +1,4 @@
 ***resolved*** two instances of Gnoise cause max to freeze
 
+mxj~ Gnoise will not work with Max 6.0.8. -- I think the problem has to do with the 32bit msp wrapper that Max uses for Java.
+I'm planning on making this into a C external which should fix the problem. 
