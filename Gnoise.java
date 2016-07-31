@@ -7,7 +7,7 @@ public class Gnoise extends MSPPerformer
 	//values
 	float mean = 0.0f;
 	float stddev = 1.0f;
-	long seed = Long.MAX_VALUE;
+	long seed = 0;
 	Random r = new Random();
 	//assist values
 	private static final String[] INLET_ASSIST = new String[]{
@@ -62,6 +62,7 @@ public class Gnoise extends MSPPerformer
 		}
 	}
 }
+
 
 
 
