@@ -28,7 +28,7 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"maxclass" : "comment",
-					"text" : "Gaussian Noise generator:\n\nGenerates random values around a mean value and within a standard deviation of that value.\n\nHow to use:\n\nPlace the Gnoise.class and Gnoise.java file in: Cycling74' > java > classes folder\n\nCreate a new [mxj~ Gnoise] object \n\n•Inlet one allows you to change the mean value of Gnoise\n•Inlet two allows you to change the standard deviation of Gnoise\n•Outlet one outputs the Gaussian Noise\n\nSetting attriubtes:\n\nYou can change the initial values with @mean, @stddev, and @seed\n\nNote: The initial values of Gnoise are: mean 0.0f, stddev 1.0f, and seed Long.MAX_VALUE (or 9,223,372,036,854,775,807)\n\nEddie Farr -- 2016 -- www.eddiefarr.com",
+					"text" : "Gaussian Noise generator:\n\nGenerates random values around a mean value and within a standard deviation of that value.\n\nHow to use:\n\nPlace the Gnoise.class and Gnoise.java file in: Cycling74' > java > classes folder\n\nCreate a new [mxj~ Gnoise] object \n\n•Inlet one allows you to change the mean value of Gnoise\n•Inlet two allows you to change the standard deviation of Gnoise\n•Outlet one outputs the Gaussian Noise\n\nSetting attriubtes:\n\nYou can change the initial values with @mean, @stddev, and @seed\n\nNote: The initial values of Gnoise are: mean 0.0f, stddev 1.0f, and seed 0.0\n\nEddie Farr -- 2016 -- www.eddiefarr.com",
 					"linecount" : 23,
 					"presentation_linecount" : 23,
 					"frgb" : [ 0.0, 0.0, 0.0, 1.0 ],
