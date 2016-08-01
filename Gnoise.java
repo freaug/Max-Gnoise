@@ -62,10 +62,3 @@ public class Gnoise extends MSPPerformer
 		}
 	}
 }
-
-
-
-
-
-
-
