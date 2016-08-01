@@ -31,4 +31,5 @@ Gnoise has been tested with Max5, Max6.1.10, and Max 7.2.4 on OS X Yosemite with
 If you have any issues the mxj~ reference is a good place to look: https://docs.cycling74.com/max5/refpages/max-ref/mxj~.html or you can drop me a line ed.mc.farr@gmail.com
 
 <h4>todo: </h4>
-impliment box-muller transform and linear interpolation (similar to rand~)
+impliment linear interpolation between values
+2D and 3D Gaussian noise
